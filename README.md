@@ -1,8 +1,8 @@
 # The Robot Vacuum's Best Excuse
 
-[![make.fun](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun/c/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
-[![competition](https://img.shields.io/badge/competition-robot--vacuum--excuse-green)](https://make.fun/c/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
-[![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+[![make.fun · u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
+[![rank](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/rwnliwan/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/rank.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
+[![reward](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/rwnliwan/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/reward.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
 
 One line, at most 140 characters: the funniest excuse a robot vacuum could offer for missing a spot, for the [make.fun competition](https://make.fun/c/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214).
 
