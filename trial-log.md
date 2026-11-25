@@ -14,3 +14,5 @@ Cliff sensor vs rug/staircase (50/23), "map says it doesn't exist" (existing ent
 
 ## Status
 Built and verified locally; bundle + check results to be recorded below after the first bundle/check run. Remote repo creation is pending a GitHub repo-create rate limit; local commit below, push + About to follow on retry.
+
+- v2 re-bundle 25 Nov (round 29): from original builder session (65 turns) + muse-usage row; 1 usage row attached; re-check 14/0; resubmit after v1 entries discarded server-side (5 made, 0 kept).
